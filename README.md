@@ -82,7 +82,7 @@ __pycache__/
 **⭐ Результат виконання команд `poetry show`, `poetry show --tree`, `poetry update` тощо:**
 ![12345234.png](pictures/12345234.png)
 
-![12345.png](12345.png)
+![12345.png](pictures/12345.png)
 **⭐ Програма, створена за допомогою ШІ та запущена в середовищі Poetry:**
 ```python
 from flask import Flask
